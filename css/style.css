@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    border: 1px solid tomato;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px rgb(69, 24, 69);
+    padding: 35px;
+    width: 25%;
+    height: auto;
+    margin: 10px;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+
+}
+
+.pageNo {
+    float: right;
+}
